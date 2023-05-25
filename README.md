@@ -15,7 +15,8 @@ TallerRamasGit
 ![Imagen1](CaptureCod.png)
  artista
 
-# Cambio integrante 3
+# Cambio integrante 2
 
 ![Imagen 1](1.png)
- 735d22e133081a1d882fb036f356920707cc9e9a
+#Cambio realizado por el integrante 1
+
